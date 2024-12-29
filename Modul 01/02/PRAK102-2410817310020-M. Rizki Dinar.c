@@ -11,7 +11,7 @@ int main()
     printf("Variabel a bernilai %i\n", a);
     printf("Variabel b bernilai %i\n", b);
     printf("Variabel c bernilai %i\n", c);
-    printf("Jumlah variabel tersebut adalah %f", eq);
+    printf("Hasil dari %f dikali %f dibagi %f adalah %f", a,b,c,eq);
     
     return 0;
 }
